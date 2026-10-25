@@ -4,6 +4,10 @@ Plataforma educativa con catálogo, búsqueda de cursos y compras simuladas.
 
 **Edición de portafolio de Ronal Condor · proyecto académico colaborativo.**
 
+**Mi participación:** desarrollo frontend con React y TypeScript, e integración con APIs para búsqueda, catálogo y gestión de cursos.
+
+[Frontend original](https://github.com/ronaljcb/frontend-fi) · [Mi historial original](https://github.com/ronaljcb/frontend-fi/commits/main/?author=ronaljcb) · [Mi participación y arquitectura](docs/CONTRIBUTIONS.md)
+
 [![Demo en Vercel](https://img.shields.io/badge/demo-Vercel-black?logo=vercel)](https://educloud-blush.vercel.app) ![Estado](https://img.shields.io/badge/estado-demo_interactiva-2d7c53)
 
 ![Vista de la aplicación](docs/screenshots/app.png)
